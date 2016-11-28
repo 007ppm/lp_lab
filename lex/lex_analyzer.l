@@ -1,3 +1,4 @@
+//minial model of lexical analyser for c progm 
 %{
 #include<stdio.h>
 %}
